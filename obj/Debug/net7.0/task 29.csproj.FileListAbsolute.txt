@@ -1,0 +1,14 @@
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\bin\Debug\net7.0\task 29.exe
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\bin\Debug\net7.0\task 29.deps.json
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\bin\Debug\net7.0\task 29.runtimeconfig.json
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\bin\Debug\net7.0\task 29.dll
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\bin\Debug\net7.0\task 29.pdb
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\obj\Debug\net7.0\task 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\obj\Debug\net7.0\task 29.AssemblyInfoInputs.cache
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\obj\Debug\net7.0\task 29.AssemblyInfo.cs
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\obj\Debug\net7.0\task 29.csproj.CoreCompileInputs.cache
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\obj\Debug\net7.0\task 29.dll
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\obj\Debug\net7.0\refint\task 29.dll
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\obj\Debug\net7.0\task 29.pdb
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\obj\Debug\net7.0\task 29.genruntimeconfig.cache
+C:\Users\drkas\OneDrive\Рабочий стол\gb\C#\hm ls 4\task 29\obj\Debug\net7.0\ref\task 29.dll
